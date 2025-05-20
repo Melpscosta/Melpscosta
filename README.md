@@ -1,7 +1,7 @@
 <p align="center">
     <img height="200px" src="https://i.pinimg.com/736x/be/7f/7e/be7f7ee86375fb6f740d59e9691b0474.jpg" style="
     width: auto;
-    height: 30vh;
+    height: 40vh;
 ">
 </p>
 <p align="center"> Oi, eu sou a Melissa! </p>
