@@ -4,12 +4,7 @@
     height: 30vh;
 ">
 </p>
-
-<p align="center"><a href="https://media.tenor.com/3oHZ73zXMDUAAAAi/sanrio-cute.gi"><img
-            src="https://media.tenor.com/3oHZ73zXMDUAAAAi/sanrio-cute.gi" width="auto" height="124px"
-            src="https://media.tenor.com/ECDVsUgcPOcAAAAi/my-melody.gif" width="auto" height="124px"
-            alt="my-melody-whats-up"></a></p>
-<p align="center"> Eu sou a Melissa! </p>
+<p align="center"> Oi, eu sou a Melissa! </p>
 
 <div align="center">
     <p>
