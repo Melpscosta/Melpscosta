@@ -16,7 +16,7 @@
         <img src="https://media.tenor.com/XZxs2nTf9lcAAAAi/heart-8bit.gif" width="32px" height="32px" alt="heart" />
         Atualmente estou trabalhando em projetos como
         <a href="https://github.com/Melpscosta/marcacaoDeConsultasMedicas">Marcação de Consultas</a> e
-        <a href="https://github.com/Melpscosta/Mottu">Solução para Mottu</a>
+        <a href="https://github.com/Melpscosta/MottuRestApi">Solução para Mottu</a>
     </p>
 
 </div>
