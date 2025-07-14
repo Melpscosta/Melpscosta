@@ -8,12 +8,10 @@
 
 <div align="center">
     <p>
-        <img src="https://media.tenor.com/XZxs2nTf9lcAAAAi/heart-8bit.gif" width="32px" height="32px" alt="heart" />
         Tenho 20 anos e estou no último ano de ADS, iniciando minha carreira
         em desenvolvimento de software.
     </p>
     <p>
-        <img src="https://media.tenor.com/XZxs2nTf9lcAAAAi/heart-8bit.gif" width="32px" height="32px" alt="heart" />
         Atualmente estou trabalhando em projetos como
         <a href="https://github.com/Melpscosta/marcacaoDeConsultasMedicas">Marcação de Consultas</a> e
         <a href="https://github.com/Melpscosta/MottuRestApi">Solução para Mottu</a>
@@ -29,10 +27,6 @@
 
 </div>
 
-
-<h1 align="center"><a href="https://media.tenor.com/hfZxrPyI4iAAAAAi/my-melody.gif"><img
-            src="https://media.tenor.com/hfZxrPyI4iAAAAAi/my-melody.gif" width="auto" height="124px"
-            alt="my-melody"></a></h1>
 
 <h3 align="center">Linguagens e ferramentas:</h3>
 <p align="center"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
