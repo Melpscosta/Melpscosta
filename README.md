@@ -1,8 +1,9 @@
 <p align="center">
-    <img height="200px" src="https://i.pinimg.com/originals/47/23/44/472344f89d08d35b1e3a384611dc2581.gif" style="
-    width: auto;
-    height: 35vh;
-">
+  <img 
+    src="https://media1.tenor.com/m/yfcLcQM_m30AAAAd/jaycemoji.gif" 
+    width="400"
+  />
+</p>
 </p>
 <p align="center"> Oi, eu sou a Melissa! </p>
 
