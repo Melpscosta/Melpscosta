@@ -11,17 +11,17 @@
 <div align="center">
   <p>
     Sou formada em Análise e Desenvolvimento de Sistemas, mas meu maior foco é front-end, além de gostar bastante de explorar web design.
-    Atualmente estou atualizando alguns projetos antigos para renovar meu portfólio e mostrar melhor as coisas que venho aprendendo.
+    No momento, estou atualizando alguns projetos antigos para renovar meu portfólio e deixar tudo mais com a minha cara hoje.
   </p>
 
   <p>
-    Também estou em busca de uma oportunidade para entrar no mercado de tecnologia, ganhar experiência e continuar evoluindo como desenvolvedora.
+    Também estou em busca de uma oportunidade para entrar no mercado de trabalho na área de tecnologia e seguir crescendo como desenvolvedora.
   </p>
 
   <p>
-    Fiquem à vontade para explorar e testar meu projeto:
-    <br/>
-    <a href="https://github.com/Melpscosta/MottuRestApi"><b>Solução para Mottu</b></a>
+    Fiquem à vontade para explorar e testar meu projeto recem refeito:
+    <a href="https://github.com/Melpscosta/MottuRestApi">Solução para Mottu</a>,
+    além de dar uma olhada nos próximos projetos que eu ainda quero tirar do papel ou aprimorar.
   </p>
 </div>
 
