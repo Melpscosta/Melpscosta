@@ -28,22 +28,23 @@
 <br>
 
 <!-- GRÁFICOS -->
-<table align="center">
-  <tr>
-    <td style="padding-right: 10px;">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=github_dark"
-        height="170"
-      />
-    </td>
-    <td style="padding-left: 10px;">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=github_dark"
-        height="170"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=tokyonight"
+    height="170"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=tokyonight"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melpscosta&theme=tokyonight"
+    width="700"
+  />
+</p>
 
 <br>
 
