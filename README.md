@@ -26,21 +26,32 @@
 </div>
 
 <br>
-<!-- GRÁFICOS -->
-<p align="center">
+
+<!-- GITHUB ANALYTICS -->
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
+
+  <!-- ACTIVITY GRAPH (estável) -->
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=melpscosta&bg_color=000000&color=d4d4d8&line=a1a1aa&point=ffffff&hide_border=true"
-    width="100%"
+    width="95%"
   />
-</p>
 
-<p align="center">
+  <br /><br />
+
+  <!-- STATS + LANGS -->
   <img
-    src="https://gh-stats-plum-five.vercel.app/api/languages?username=melpscosta&theme=transparent&layout=compact&title_color=ffffff&text_color=d4d4d8&bg_color=00000000&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8&icon_color=a1a1aa"
     height="160"
   />
-</p>
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8"
+    height="160"
+  />
 
+</div>
 <br>
 
 <h3 align="center">Linguagens e ferramentas</h3>
