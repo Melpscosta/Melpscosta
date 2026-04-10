@@ -34,7 +34,7 @@
     height="160"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=github_dark"
+    src="https://gh-stats-plum-five.vercel.app/api/languages?username=melpscosta&theme=transparent&layout=compact&title_color=ffffff&text_color=d4d4d8&bg_color=00000000&hide_border=true"
     height="160"
   />
 </p>
