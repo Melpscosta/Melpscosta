@@ -30,11 +30,11 @@
 <!-- GRÁFICOS -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&border_color=30363d&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8&icon_color=a1a1aa&border_color=404040&include_all_commits=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&border_color=30363d"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8&border_color=404040"
     height="165"
   />
 </p>
