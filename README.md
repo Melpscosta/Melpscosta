@@ -47,13 +47,15 @@
 <h3 align="center">Contatos</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/melissa-pereira-da-costa">
+  <a href="https://www.linkedin.com/in/melissa-pereira-da-costa" target="_blank">
     <img 
-      src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&color=7c3aed"
+      src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
     />
+  </a>
+  
   <a href="mailto:melpscosta@gmail.com">
     <img 
-      src="https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&color=7c3aed"
+      src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
 </p>
