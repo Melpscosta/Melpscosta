@@ -31,14 +31,11 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=melpscosta&hide_border=true&background=00000000&ring=d4d4d8&fire=a1a1aa&currStreakLabel=ffffff&sideLabels=d4d4d8&dates=a3a3a3&currStreakNum=ffffff&sideNums=ffffff"
-    height="165"
+    height="160"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-activity-chart.vercel.app/graph?username=melpscosta&days=30&hide_border=true&bg_color=00000000&color=ffffff&line=a3a3a3&point=d4d4d8"
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=github_dark"
+    height="160"
   />
 </p>
 
