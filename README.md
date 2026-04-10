@@ -27,6 +27,16 @@
 
 <br>
 
+<h3 align="center">Atividade no GitHub</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=melpscosta&bg_color=000000&color=d4d4d8&line=a1a1aa&point=ffffff&hide_border=true&area=true"
+    width="95%"
+  />
+</p>
+
+<br>
 
 <h3 align="center">Linguagens e ferramentas</h3>
 
