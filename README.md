@@ -27,15 +27,14 @@
 
 <br>
 
-
 <!-- GRÁFICOS -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide=issues&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db"
+    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db&border_color=30363d&include_all_commits=true&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&border_color=30363d"
     height="165"
   />
 </p>
