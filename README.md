@@ -30,11 +30,11 @@
 <!-- GRÁFICOS -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db&icon_color=9ca3af&ring_color=ffffff"
     height="170"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=github_dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=d1d5db"
     height="170"
   />
 </p>
