@@ -30,12 +30,15 @@
 <!-- GRÁFICOS -->
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8&icon_color=a1a1aa&border_color=404040&include_all_commits=true&count_private=true"
+    src="https://streak-stats.demolab.com?user=melpscosta&hide_border=true&background=00000000&ring=d4d4d8&fire=a1a1aa&currStreakLabel=ffffff&sideLabels=d4d4d8&dates=a3a3a3&currStreakNum=ffffff&sideNums=ffffff"
     height="165"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8&border_color=404040"
-    height="165"
+    src="https://github-activity-chart.vercel.app/graph?username=melpscosta&days=30&hide_border=true&bg_color=00000000&color=ffffff&line=a3a3a3&point=d4d4d8"
+    width="100%"
   />
 </p>
 
