@@ -28,27 +28,17 @@
 <br>
 
 <!-- GITHUB ANALYTICS -->
-<h2 align="center">GitHub Analytics</h2>
-
 <div align="center">
 
-  <!-- ACTIVITY GRAPH (estável) -->
+  <!-- STATS + LANGUAGES (MESMA FONTE VISUAL) -->
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=melpscosta&bg_color=000000&color=d4d4d8&line=a1a1aa&point=ffffff&hide_border=true"
-    width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=github_dark"
+    height="150"
   />
 
-  <br /><br />
-
-  <!-- STATS + LANGS -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8&icon_color=a1a1aa"
-    height="160"
-  />
-  
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d4d4d8"
-    height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=github_dark"
+    height="150"
   />
 
 </div>
