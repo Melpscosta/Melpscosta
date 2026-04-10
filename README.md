@@ -26,13 +26,15 @@
 </div>
 
 <br>
-
 <!-- GRÁFICOS -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=melpscosta&hide_border=true&background=00000000&ring=d4d4d8&fire=a1a1aa&currStreakLabel=ffffff&sideLabels=d4d4d8&dates=a3a3a3&currStreakNum=ffffff&sideNums=ffffff"
-    height="160"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=melpscosta&bg_color=000000&color=d4d4d8&line=a1a1aa&point=ffffff&hide_border=true"
+    width="100%"
   />
+</p>
+
+<p align="center">
   <img
     src="https://gh-stats-plum-five.vercel.app/api/languages?username=melpscosta&theme=transparent&layout=compact&title_color=ffffff&text_color=d4d4d8&bg_color=00000000&hide_border=true"
     height="160"
