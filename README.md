@@ -27,21 +27,6 @@
 
 <br>
 
-<!-- GITHUB ANALYTICS -->
-<div align="center">
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=github_dark"
-    height="160"
-  />
-
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melpscosta&theme=github_dark"
-    height="160"
-  />
-
-</div>
-<br>
 
 <h3 align="center">Linguagens e ferramentas</h3>
 
