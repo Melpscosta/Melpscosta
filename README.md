@@ -27,22 +27,16 @@
 
 <br>
 
+
 <!-- GRÁFICOS -->
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=github_dark"
-    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&hide=issues&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=d1d5db"
+    height="165"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=melpscosta&theme=github_dark&utcOffset=-3"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melpscosta&theme=github_dark"
-    width="700"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af"
+    height="165"
   />
 </p>
 
