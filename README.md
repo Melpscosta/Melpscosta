@@ -30,15 +30,14 @@
 <!-- GITHUB ANALYTICS -->
 <div align="center">
 
-  <!-- STATS + LANGUAGES (MESMA FONTE VISUAL) -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=github_dark"
-    height="150"
+    height="160"
   />
 
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=github_dark"
-    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=melpscosta&theme=github_dark"
+    height="160"
   />
 
 </div>
