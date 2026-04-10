@@ -32,13 +32,13 @@
   <tr>
     <td style="padding-right: 10px;">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=melpscosta&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melpscosta&theme=github_dark"
         height="170"
       />
     </td>
     <td style="padding-left: 10px;">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=melpscosta&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=30363d"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melpscosta&theme=github_dark"
         height="170"
       />
     </td>
